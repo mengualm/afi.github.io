@@ -28,8 +28,8 @@ El análisis forense informático es una disciplina clave en la ciberseguridad q
 ---
 
 ## Herramientas Utilizadas
-- Volatility 2
-- Volatility 3
+- [Volatility 2](guia_volatility_kali.md)
+- [Volatility 3](guia_volatility3_kali.md)
 - Autopsy
 - FTK Imager
 - Wireshark
